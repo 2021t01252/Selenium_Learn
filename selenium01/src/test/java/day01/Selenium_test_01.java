@@ -33,7 +33,7 @@ public class Selenium_test_01 {
 			System.out.println("Test Failed");
 		}
 		
-		driver.close();
+		driver.quit();
 
 	}
 
