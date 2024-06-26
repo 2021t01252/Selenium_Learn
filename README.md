@@ -1,5 +1,8 @@
 <b>Day 02 Locators</b>
 
+<b>findElement() ----> Single Web element</b><br />
+<b>findElements() ----> Multiple Web elements</b>
+
 Scanario 1 : Locator matching with single web element <br />
 
 <ul>
